@@ -4,3 +4,7 @@ matplotlib
 seaborn
 kagglehub
 streamlit
+ipykernel
+tensorflow
+scikit-learn
+imbalanced-learn
