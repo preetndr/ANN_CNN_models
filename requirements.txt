@@ -8,3 +8,5 @@ ipykernel
 tensorflow
 scikit-learn
 imbalanced-learn
+keras-tuner
+tensorboard
